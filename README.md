@@ -16,20 +16,23 @@ A full-stack web developer with experience in designing and developing modern, o
 - **Testing & QA**: Jest, Mocha, Selenium, RSpec
 
 ## Experience
-**Rikkeisoft (VN Branch) - Fullstack Developer** (July 2023 - Present)
+### Rikkeisoft (VN Branch) - Fullstack Developer (July 2023 - Present)
 - Lead a small team of 5 developers, managing task delegation, code reviews, and technical decision-making.
 - Designed and developed web applications using CakePHP and Ruby on Rails for scalable backend solutions.
 - Built front-end features with Vue.js, NuxtJS, and GraphQL, ensuring high-performance and interactive user experiences.
+- Integrated third-party payment gateways such as Amazon Pay, Stripe, GMO, and PayPal, ensuring secure and seamless transactions.
 - Managed and optimized MySQL databases, improving query performance and scalability.
 - Developed and maintained CI/CD pipelines using GitHub Actions, automating build, test, and deployment processes.
 - Created containerized environments with Docker, streamlining deployments and improving development consistency.
 - Worked closely with a 20-member team, collaborating on feature development, bug fixes, and product improvements.
-- Key Achievements & Skills Gained:
+
+**Key Achievements & Skills Gained:**
 - Mastered CakePHP and NuxtJS for full-stack web development.
 - Developed proficiency in GraphQL for efficient API design and data fetching.
 - Gained hands-on experience with Docker for containerized application management.
 - Improved expertise in CI/CD pipelines, leveraging GitHub Actions for automated deployment and testing.
 - Strengthened database management skills with MySQL, optimizing performance and reliability.
+- Successfully integrated and maintained multiple third-party payment systems, ensuring smooth financial transactions.
 
 ## What I'm Working On
 
