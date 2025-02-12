@@ -4,33 +4,32 @@ Welcome to my GitHub Profile!
 
 ## About Me
 
-I am a full-stack software developer with expertise in web and apps. Skilled in designing and developing scalable, responsive, and user-centric web applications. Proficient in building RESTful APIs, managing databases, and creating modern, intuitive front-end interfaces. Strong problem-solving skills, collaborative thinking, and a commitment to staying up-to-date with the latest technologies and best practices in software development.
+A full-stack web developer with experience in designing and developing modern, optimized, and user-friendly web applications. Proficient in building RESTful APIs, managing databases, and developing intuitive, responsive interfaces. Strong problem-solving skills, effective teamwork, and a commitment to staying up-to-date with the latest technologies and trends in web development.
 
 ## Technical Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Ruby, Java, Dart, PHP
-- **Frontend**: React, Vue.js, HTML5, CSS3, SASS, Webpack, TailwindCSS, NuxtJS, Flutter, React Native
+- **Languages**: PHP, JavaScript, TypeScript, Ruby, Java, Python
+- **Frontend**: React, Vue.js, HTML5, CSS3, SASS, Webpack, TailwindCSS, NuxtJS
 - **Backend**: Spring Boot, CakePHP, Node.js, Express, Django, Ruby on Rails
 - **Database** Management: PostgreSQL, MySQL, Redis
 - **DevOps**: Docker, Kubernetes, AWS, Azure, CI/CD, GitHub Actions
-- **Testing & QA**: Jest, Mocha, Selenium, Cypress, RSpec
+- **Testing & QA**: Jest, Mocha, Selenium, RSpec
+
 ## Experience
-**Rikkeisoft (VN Branch) - Fullstack Developer** (Feb 2020 - Present)
-- Work on tasks from team lead and clients
-- Design and develop web applications with CakePHP, Ruby on Rails
-- Develop front-end features using VueJS, NuxtJS, and GraphQL
-- Implement state management using Pinia and TypeScript
-- Build and manage databases with MySQL
-- Create containerized environments using Docker for deployment
-- Develop mobile applications with Flutter
-- Collaborate with a team of 20 members to deliver high-quality software
-- Achievements and skills gained:
-- Mastered frameworks such as CakePHP, Ruby on Rails, and NuxtJS
-- Expertise in state management with Pinia and TypeScript
-- Proficient in GraphQL for efficient data fetching
-- Hands-on experience with Docker for environment management
-- Gained deep knowledge in MySQL for database management
-- Developed cross-platform mobile applications using Flutter
+**Rikkeisoft (VN Branch) - Fullstack Developer** (July 2023 - Present)
+- Lead a small team of 5 developers, managing task delegation, code reviews, and technical decision-making.
+- Designed and developed web applications using CakePHP and Ruby on Rails for scalable backend solutions.
+- Built front-end features with Vue.js, NuxtJS, and GraphQL, ensuring high-performance and interactive user experiences.
+- Managed and optimized MySQL databases, improving query performance and scalability.
+- Developed and maintained CI/CD pipelines using GitHub Actions, automating build, test, and deployment processes.
+- Created containerized environments with Docker, streamlining deployments and improving development consistency.
+- Worked closely with a 20-member team, collaborating on feature development, bug fixes, and product improvements.
+- Key Achievements & Skills Gained:
+- Mastered CakePHP and NuxtJS for full-stack web development.
+- Developed proficiency in GraphQL for efficient API design and data fetching.
+- Gained hands-on experience with Docker for containerized application management.
+- Improved expertise in CI/CD pipelines, leveraging GitHub Actions for automated deployment and testing.
+- Strengthened database management skills with MySQL, optimizing performance and reliability.
 
 ## What I'm Working On
 
